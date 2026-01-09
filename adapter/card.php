@@ -29,7 +29,7 @@ class LocalATM {
 }
 
 $atm = new LocalATM();
-$atm1 = new LocalATM();
+$atm1 = new LocalATM(); 
 $foreignCard = new InternationalCard();
 $adapter = new CardAdapter($foreignCard);
 

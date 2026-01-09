@@ -1,0 +1,3 @@
+<!-- factory desgn patterns -->
+ <?php
+ ?>

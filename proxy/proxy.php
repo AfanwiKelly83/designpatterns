@@ -1,0 +1,3 @@
+<!-- poxy design pattern -->
+ <?php
+ ?>
